@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**alyorbek-tukhtasinov/alyorbek-tukhtasinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there, I'm Alyorbek Tukhtasinov!
 
-Here are some ideas to get you started:
+I'm a cybersecurity student passionate about ethical hacking, system defense, and exploring digital vulnerabilities. I use this GitHub profile to share my learning journey, tools I build, and contributions to the infosec community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I Do:
+- Study **cybersecurity principles**, **network security**, and **penetration testing**
+- Learn and practice with **Python**, **Linux**, and **command-line tools**
+- Work on **CTFs**, personal labs, and open-source security tools
+- Document my knowledge and experience for others
+
+---
+
+### Interests:
+- Ethical Hacking & CTFs
+- Web & Network Security
+- Malware Analysis
+- Threat Intelligence
+- Reverse Engineering (beginner level)
+
+---
+
+### Goals:
+- Contribute to real-world open-source security tools
+- Build my own small security utilities & scripts
+- Write clean, well-documented code others can learn from
+- Grow into a skilled cybersecurity professional
+
+
+
+> "Security is not a product, but a process." – Bruce Schneier
+
+Let’s connect and secure the digital world — one line of code at a time.
